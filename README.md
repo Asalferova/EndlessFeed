@@ -4,7 +4,7 @@
 
 Этот проект представляет собой веб-приложение, которое отображает **бесконечную ленту изображений**, загруженных с Unsplash. Используя **API Unsplash**, приложение динамически загружает и отображает изображения по мере прокрутки пользователем страницы.
 
-   **Технологии**: HTML, CSS, JavaScript, Fetch API, Unsplash API.
+   **Технологии**: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="50px" width="50px"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="50px" width="50px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="50px" width="50px"/> Fetch API, Unsplash API.
 
    Основные функции:
 
