@@ -1,3 +1,5 @@
+'use strict';
+
 // Ссылка на элемент контейнера, в который будут добавляться изображения
 const photoContainer = document.querySelector('#photo-container');
 
